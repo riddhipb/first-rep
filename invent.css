@@ -1,0 +1,201 @@
+.div-logo{
+	height: 50px;
+	width:50px;
+	margin:5px;
+	margin-left: 200px;
+	float:left;
+}
+
+.about-us{
+	text-align: center;
+	color: green;
+}
+
+.invent-nav{
+	margin:10px;
+	margin-right: 50px;
+	margin-top: 30px;
+	float: right;
+	font-family: "Arial";
+	color: black;
+	letter-spacing: 0.5px;
+}
+
+a{
+	text-decoration: none;
+	color: #0a0a0a;
+}
+
+.about{
+	margin-right: 15px;
+}
+
+.home{
+	margin-right: 15px;
+}
+
+.awards{
+	margin-right: 15px;
+}
+
+.site-content{
+
+	top: 78px;
+	width: 100%;
+}
+
+.image-content{
+	background-image: url("background-layer.png");
+height: 418px;
+width: 100%;
+text-align: center;
+background-position: center;
+}
+
+
+.header{
+	background-color: white;
+	position: sticky;
+	left:0px;
+	right:0px;
+	height: 50px;
+	width:100%;
+	z-index: 100;
+}
+
+.home-info{
+	font-family: "Arial";
+	color: white;
+	font-style: italic;
+	position: relative;
+	top:45%;
+	font-size: large;
+	text-align: center;
+	
+}
+
+.click{
+	font-family: "Arial";
+	color: white;
+	position : relative;
+	top: 50%;
+	font-size: medium;
+
+}
+
+.heading{
+	color:  #139139;
+	text-align: center;
+	font-family: "Arial";
+	font-size: 25px;
+	margin-top: 75px;
+	letter-spacing: 2px;
+	
+}
+
+.p-info{
+	text-align: center;
+	font-family: "Arial";
+	font-size: medium;
+	padding-left: 15%;
+	padding-right: 15%;
+	letter-spacing: 2px;
+}
+
+.p-class{
+	font-size: 15px;
+	letter-spacing: 1px;
+	color: #828282;
+}
+
+
+.card1{
+	height: 300px;
+	width: 600px;
+	float: left;
+	text-align: left;
+	margin-left: 300px;
+	margin-top: 20px;
+	font-family: "Arial";
+}
+
+.card2{
+	height: 300px;
+	width:600px;
+	float: right;
+	text-align: left;
+	margin-right: 300px;
+font-family: "Arial";
+	margin-top: 20px;
+}
+
+.awards-heading{
+	color: #139139;
+	font-family: "Arial";
+	text-align:center;
+	margin-top: 2px;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+
+.card{
+	font-family: "Arial";
+	width: 22%;
+	padding: 1.5%;
+	height:300px;
+	float: left;
+	letter-spacing: 2px;
+	text-align: center;
+	font-size: medium;
+
+}
+
+.hfour{
+	color: grey;
+	font-family: "Arial narrow";
+	font-weight: lighter;
+	letter-spacing: 2px; 
+	border-top: solid;
+	border-width: 0.5px;
+	padding-top: 25px;
+
+	}
+
+
+.card img{
+	width: 100%;
+}
+
+.con-head{
+	color: #139139;
+	font-family: "Arial";
+	text-align:center;
+	border-top: 50px;
+	letter-spacing: 2px;
+	font-size: 25px;
+	
+}
+
+.location{
+	float: right;
+	
+}
+
+.contact-us{
+	float: left;
+	margin-right: 300px;
+	margin-left: 53%;
+}
+
+.form{
+	float:right;
+	margin-bottom:100% ;
+}
+
+.rest{
+	margin: 1px 1px 1px 1px;
+}
+
+.hbspt-form{
+	background-color: black;
+}
